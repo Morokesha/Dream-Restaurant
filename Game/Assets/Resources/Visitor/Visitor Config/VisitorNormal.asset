@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0198bd220cf449e68e64916dcfe81bb1, type: 3}
+  m_Name: VisitorNormal
+  m_EditorClassIdentifier: 
+  VisitorTemplate: {fileID: 5156854116225211371, guid: 4cb49fab71fbe6a42812244d0552dfb9, type: 3}
+  VisitorType: 0
+  LootType: 0
+  Visual:
+  - {fileID: 865461228521391719, guid: 5cfc4356ea15ac84fa5d781bcd9d3d83, type: 3}
+  - {fileID: 691861149448378653, guid: c5d323d3677cd9e47b5e72a13c5ae3ee, type: 3}
+  _minLootAmount: 2
+  _maxLootAmount: 5

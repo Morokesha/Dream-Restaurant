@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cc6a94f-e25f-4b57-be59-d919f575e416" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../hypercasual-cat-trainer/Assets/Scripts/Cat Trainer/Cat/PlayerAnimator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Collector Crafter/Assets/Game/Scripts/Resource/ResourceNode/ResourceNodeStaticData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../New Unity Project/Assets/Game/Scripts/Unit/IAnimationStateReader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../New Unity Project/Assets/Game/Scripts/Unit/AnimatorController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Collector Crafter/Assets/Game/Scripts/Building/BuildingTypes/Sawmill.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Collector Crafter/Assets/Game/Scripts/Services/InputService/InputService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Collector Crafter/Assets/Game/Scripts/Building/BuildingSpawner.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Collector Crafter/Assets/External Tools/Joystick Pack/Scripts/Joysticks/FixedJoystick.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Collector Crafter/Assets/Game/Scripts/UI/UIManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Collector Crafter/Assets/Game/Scripts/Common/Enums.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Collector Crafter/Assets/Game/Scripts/StaticData/BuildingStaticData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Collector Crafter/Assets/External Tools/Joystick Pack/Scripts/Joysticks/DynamicJoystick.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Collector Crafter/Assets/Game/Scripts/Services/StaticDataService/StaticDataService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Collector Crafter/Assets/External Tools/Joystick Pack/Scripts/Base/Joystick.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Collector Crafter/Assets/Game/Scripts/Resource/NodeSpawner/ResourceSpawnersStaticData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Collector Crafter/Assets/Game/Scripts/Services/ServiceLocator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Hit Master/Hit-Master/Assets/Scripts/Player/MovementPlayer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Hit Master/Hit-Master/Assets/Scripts/Waypoints/WaypointsPath.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Collector Crafter/Assets/Game/Scripts/Player/PlayerAnimator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Collector Crafter/Assets/Game/Scripts/Services/AllInterfaces/IGameFactory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Collector Crafter/Assets/Game/Scripts/Resource/ResourceNode/ResourceNode.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Collector Crafter/Assets/Game/Scripts/Resource/NodeSpawner/SpawnPointNode.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Collector Crafter/Assets/Game/Scripts/Services/GameFactory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../BuildTowerDefence/Assets/Scripts/ResourceAmount.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Collector Crafter/Assets/Game/Scripts/Core/GameBootstrapper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Collector Crafter/Assets/Game/Scripts/Core/GameInitialize.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../BuildTowerDefence/Assets/Scripts/ResourceManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Collector Crafter/Assets/Game/Scripts/Resource/NodeSpawner/ResourceNodeSpawner.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23rzPTgj3xinca50MAe0Va6nKjE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="rider.run.widget.enabled.cache" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cc6a94f-e25f-4b57-be59-d919f575e416" name="Changes" comment="" />
+      <created>1642507058336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642507058336</updated>
+      <workItem from="1642507058347" duration="1280000" />
+      <workItem from="1642515706509" duration="7000" />
+      <workItem from="1642516147557" duration="2550000" />
+      <workItem from="1642593880691" duration="9618000" />
+      <workItem from="1642672578235" duration="7540000" />
+      <workItem from="1642695128951" duration="658000" />
+      <workItem from="1642854628621" duration="5814000" />
+      <workItem from="1642868615731" duration="1754000" />
+      <workItem from="1643024541588" duration="12115000" />
+      <workItem from="1643103088852" duration="10914000" />
+      <workItem from="1643201301236" duration="7087000" />
+      <workItem from="1643277837579" duration="13384000" />
+      <workItem from="1643369566872" duration="5916000" />
+      <workItem from="1643449899136" duration="11942000" />
+      <workItem from="1643552993105" duration="7459000" />
+      <workItem from="1643626778427" duration="16067000" />
+      <workItem from="1643712964497" duration="9843000" />
+      <workItem from="1643792971827" duration="12552000" />
+      <workItem from="1643878398700" duration="8850000" />
+      <workItem from="1644152912161" duration="4198000" />
+      <workItem from="1644226212510" duration="23777000" />
+      <workItem from="1644316990312" duration="11313000" />
+      <workItem from="1644417458652" duration="8159000" />
+      <workItem from="1644487707376" duration="11440000" />
+      <workItem from="1644575964483" duration="193000" />
+      <workItem from="1644576286713" duration="673000" />
+      <workItem from="1644577721257" duration="323000" />
+      <workItem from="1644578146304" duration="11979000" />
+      <workItem from="1644667283840" duration="10981000" />
+      <workItem from="1644758730123" duration="1102000" />
+      <workItem from="1644832222184" duration="58000" />
+      <workItem from="1644832519607" duration="457000" />
+      <workItem from="1644833478411" duration="14362000" />
+      <workItem from="1644928424454" duration="29000" />
+      <workItem from="1644929967348" duration="12153000" />
+      <workItem from="1645009282903" duration="101000" />
+      <workItem from="1645009856248" duration="1279000" />
+      <workItem from="1645012887034" duration="12167000" />
+      <workItem from="1645101171193" duration="45000" />
+      <workItem from="1645101841553" duration="10434000" />
+      <workItem from="1645270425214" duration="9000" />
+      <workItem from="1645270673571" duration="11199000" />
+      <workItem from="1645356953817" duration="37000" />
+      <workItem from="1645358450364" duration="6370000" />
+      <workItem from="1645437487054" duration="622000" />
+      <workItem from="1645526830118" duration="10650000" />
+      <workItem from="1645612553628" duration="3939000" />
+      <workItem from="1645624170419" duration="1972000" />
+      <workItem from="1645700284738" duration="6768000" />
+      <workItem from="1645871452054" duration="5843000" />
+      <workItem from="1645952114891" duration="2312000" />
+      <workItem from="1645970814751" duration="8709000" />
+      <workItem from="1646062246145" duration="2547000" />
+      <workItem from="1646214503605" duration="13088000" />
+      <workItem from="1646307573122" duration="9233000" />
+      <workItem from="1646389710324" duration="1671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
